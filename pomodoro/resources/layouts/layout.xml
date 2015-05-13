@@ -1,0 +1,5 @@
+<layout id="MainLayout">
+    <label text="state" id="label_state" x="center" y="10" font="Gfx.FONT_LARGE" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+    <label text="time" id="label_time" x="center" y="40" font="Gfx.FONT_NUMBER_THAI_HOT" color="Gfx.COLOR_GREEN" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+    <label text="done: 0" id="label_done" x="center" y="110" font="Gfx.FONT_LARGE" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+</layout>

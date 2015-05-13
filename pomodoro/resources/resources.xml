@@ -1,0 +1,5 @@
+<resources>
+    <string id="AppName">Pomodoro</string>
+
+    <bitmap id="LauncherIcon" filename="images/tomato_icon.png" />
+</resources>
